@@ -1,0 +1,1872 @@
+[
+    {
+        "question_id": "DS-1",
+        "relevant_articles": [
+            {
+                "law_id": "99/2015/nđ-cp",
+                "article_id": "62"
+            },
+            {
+                "law_id": "99/2015/nđ-cp",
+                "article_id": "70"
+            },
+            {
+                "law_id": "139/2017/nđ-cp",
+                "article_id": "63"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-2",
+        "relevant_articles": [
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "3"
+            },
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "35"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-3",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Du lịch",
+                "article_id": "48"
+            },
+            {
+                "law_id": "44/2005/qh11",
+                "article_id": "62"
+            },
+            {
+                "law_id": "09/2017/qh14",
+                "article_id": "48"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-4",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "32"
+            },
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "9"
+            },
+            {
+                "law_id": "289/2016/tt-btc",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-5",
+        "relevant_articles": [
+            {
+                "law_id": "136/2016/nđ-cp",
+                "article_id": "1"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "39"
+            },
+            {
+                "law_id": "14/2014/tt-blđtbxh",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-6",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "11"
+            },
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-7",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "3"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "5"
+            },
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-8",
+        "relevant_articles": [
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "285"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "44"
+            },
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "27"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-9",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "56"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "56"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "68"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-10",
+        "relevant_articles": [
+            {
+                "law_id": "33/2013/qh13",
+                "article_id": "42"
+            },
+            {
+                "law_id": "05/2003/nđ-cp",
+                "article_id": "7"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "44"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-11",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giáo dục",
+                "article_id": "7"
+            },
+            {
+                "law_id": "43/2019/qh14",
+                "article_id": "7"
+            },
+            {
+                "law_id": "17/2021/tt-bgdđt",
+                "article_id": "9"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-12",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "61"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "61"
+            },
+            {
+                "law_id": "20/2012/qh13",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-13",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Thanh niên",
+                "article_id": "1"
+            },
+            {
+                "law_id": "140/2015/tt-bqp",
+                "article_id": "4"
+            },
+            {
+                "law_id": "53/2005/qh11",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-14",
+        "relevant_articles": [
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "14"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-15",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "156"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "156"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "156"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-16",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "197"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "197"
+            },
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "53"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-17",
+        "relevant_articles": [
+            {
+                "law_id": "65/2018/nđ-cp",
+                "article_id": "26"
+            },
+            {
+                "law_id": "42/2020/nđ-cp",
+                "article_id": "4"
+            },
+            {
+                "law_id": "29/2005/nđ-cp",
+                "article_id": "4"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-18",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "73"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "73"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "73"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-19",
+        "relevant_articles": [
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "45"
+            },
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "38"
+            },
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "37"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-20",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "53"
+            },
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "67"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "67"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-21",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "34"
+            },
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "34"
+            },
+            {
+                "law_id": "120/2016/nđ-cp",
+                "article_id": "4"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-22",
+        "relevant_articles": [
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "479"
+            },
+            {
+                "law_id": "94/2015/qh13",
+                "article_id": "57"
+            },
+            {
+                "law_id": "53/2010/qh12",
+                "article_id": "166"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-23",
+        "relevant_articles": [
+            {
+                "law_id": "24/2019/nđ-cp",
+                "article_id": "1"
+            },
+            {
+                "law_id": "33/2016/nđ-cp",
+                "article_id": "6"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "98"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-24",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "2"
+            },
+            {
+                "law_id": "54/2010/nđ-cp",
+                "article_id": "1"
+            },
+            {
+                "law_id": "289/2016/tt-btc",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-25",
+        "relevant_articles": [
+            {
+                "law_id": "36/2013/qh13",
+                "article_id": "1"
+            },
+            {
+                "law_id": "Luật Cư trú",
+                "article_id": "38"
+            },
+            {
+                "law_id": "36/2014/tt-bca",
+                "article_id": "15"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-26",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "24"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "25"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "23"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-27",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "257"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "159"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "159"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-28",
+        "relevant_articles": [
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "10"
+            },
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "113"
+            },
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "59"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-29",
+        "relevant_articles": [
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "6"
+            },
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "6"
+            },
+            {
+                "law_id": "31/2019/nđ-cp",
+                "article_id": "6"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-30",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "5"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "2"
+            },
+            {
+                "law_id": "167/2013/nđ-cp",
+                "article_id": "21"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-31",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "81"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "81"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "84"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-32",
+        "relevant_articles": [
+            {
+                "law_id": "01/2016/ttlt-tandtc-vksndtc-btp",
+                "article_id": "2"
+            },
+            {
+                "law_id": "01/2016/ttlt-tandtc-vksndtc-btp",
+                "article_id": "4"
+            },
+            {
+                "law_id": "49/2019/nđ-cp",
+                "article_id": "11"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-33",
+        "relevant_articles": [
+            {
+                "law_id": "122/2018/nđ-cp",
+                "article_id": "6"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "19"
+            },
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "19"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-34",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "20"
+            },
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "20"
+            },
+            {
+                "law_id": "02/2017/tt-btp",
+                "article_id": "66"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-35",
+        "relevant_articles": [
+            {
+                "law_id": "136/2016/nđ-cp",
+                "article_id": "1"
+            },
+            {
+                "law_id": "14/2014/tt-blđtbxh",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "40"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-36",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "14"
+            },
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "14"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "43"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-37",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Cư trú",
+                "article_id": "38"
+            },
+            {
+                "law_id": "55/2021/tt-bca",
+                "article_id": "26"
+            },
+            {
+                "law_id": "36/2014/tt-bca",
+                "article_id": "16"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-38",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "242"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "242"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "229"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-39",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "275"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "275"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "385"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-40",
+        "relevant_articles": [
+            {
+                "law_id": "57/2020/qh14",
+                "article_id": "25"
+            },
+            {
+                "law_id": "Luật Thanh niên",
+                "article_id": "25"
+            },
+            {
+                "law_id": "15/2016/tt-bca",
+                "article_id": "12"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-41",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Trọng tài thương mại",
+                "article_id": "15"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "15"
+            },
+            {
+                "law_id": "22/2017/nđ-cp",
+                "article_id": "42"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-42",
+        "relevant_articles": [
+            {
+                "law_id": "158/2013/nđ-cp",
+                "article_id": "42"
+            },
+            {
+                "law_id": "Luật Du lịch",
+                "article_id": "58"
+            },
+            {
+                "law_id": "09/2017/qh14",
+                "article_id": "58"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-43",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "403"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "403"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "403"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-44",
+        "relevant_articles": [
+            {
+                "law_id": "03/2020/tt-bgdđt",
+                "article_id": "5"
+            },
+            {
+                "law_id": "113/2013/nđ-cp",
+                "article_id": "13"
+            },
+            {
+                "law_id": "122/2018/nđ-cp",
+                "article_id": "12"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-45",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "27"
+            },
+            {
+                "law_id": "289/2016/tt-btc",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "33"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-46",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "113"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "113"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "113"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-47",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Cư trú",
+                "article_id": "38"
+            },
+            {
+                "law_id": "47/2019/qh14",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Bảo vệ môi trường",
+                "article_id": "170"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-48",
+        "relevant_articles": [
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "4"
+            },
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "4"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "19"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-49",
+        "relevant_articles": [
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "94"
+            },
+            {
+                "law_id": "76/2015/qh13",
+                "article_id": "1"
+            },
+            {
+                "law_id": "76/2015/qh13",
+                "article_id": "42"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-50",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "32"
+            },
+            {
+                "law_id": "289/2016/tt-btc",
+                "article_id": "1"
+            },
+            {
+                "law_id": "54/2010/nđ-cp",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-51",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "119"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "119"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "119"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-52",
+        "relevant_articles": [
+            {
+                "law_id": "43/2019/qh14",
+                "article_id": "21"
+            },
+            {
+                "law_id": "Luật Giáo dục",
+                "article_id": "21"
+            },
+            {
+                "law_id": "16/2008/qđ-bgdđt",
+                "article_id": "6"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-53",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "195"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "218"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "195"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-54",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "141"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "141"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "141"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-55",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "71"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "71"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "71"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-56",
+        "relevant_articles": [
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "14"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-57",
+        "relevant_articles": [
+            {
+                "law_id": "09/2017/qh14",
+                "article_id": "30"
+            },
+            {
+                "law_id": "Luật Du lịch",
+                "article_id": "30"
+            },
+            {
+                "law_id": "44/2005/qh11",
+                "article_id": "50"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-58",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "43"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "81"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "19"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-59",
+        "relevant_articles": [
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "16"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-60",
+        "relevant_articles": [
+            {
+                "law_id": "57/2014/qh13",
+                "article_id": "40"
+            },
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "7"
+            },
+            {
+                "law_id": "57/2014/qh13",
+                "article_id": "54"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-61",
+        "relevant_articles": [
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "229"
+            },
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "229"
+            },
+            {
+                "law_id": "101/2015/qh13",
+                "article_id": "348"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-62",
+        "relevant_articles": [
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "40"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "5"
+            },
+            {
+                "law_id": "54/2010/qh12",
+                "article_id": "43"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-63",
+        "relevant_articles": [
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "141"
+            },
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "141"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "143"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-64",
+        "relevant_articles": [
+            {
+                "law_id": "112/2020/nđ-cp",
+                "article_id": "38"
+            },
+            {
+                "law_id": "53/2015/nđ-cp",
+                "article_id": "4"
+            },
+            {
+                "law_id": "58/2010/qh12",
+                "article_id": "46"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-65",
+        "relevant_articles": [
+            {
+                "law_id": "06/2014/tt-ttcp",
+                "article_id": "18"
+            },
+            {
+                "law_id": "07/2014/tt-ttcp",
+                "article_id": "20"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "338"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-66",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "47"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "47"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "47"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-67",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "27"
+            },
+            {
+                "law_id": "32/2012/nđ-cp",
+                "article_id": "10"
+            },
+            {
+                "law_id": "289/2016/tt-btc",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-68",
+        "relevant_articles": [
+            {
+                "law_id": "31/2014/nđ-cp",
+                "article_id": "5"
+            },
+            {
+                "law_id": "68/2020/qh14",
+                "article_id": "11"
+            },
+            {
+                "law_id": "36/2013/qh13",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-69",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "20"
+            },
+            {
+                "law_id": "45/2019/QH14",
+                "article_id": "143"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "20"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-70",
+        "relevant_articles": [
+            {
+                "law_id": "19/2013/tt-btp",
+                "article_id": "29"
+            },
+            {
+                "law_id": "43/2019/qh14",
+                "article_id": "22"
+            },
+            {
+                "law_id": "16/2008/qđ-bgdđt",
+                "article_id": "6"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-71",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Trồng trọt",
+                "article_id": "2"
+            },
+            {
+                "law_id": "18/2012/tt-bnnptnt",
+                "article_id": "2"
+            },
+            {
+                "law_id": "58/2018/nđ-cp",
+                "article_id": "18"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-72",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "41"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "41"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "41"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-73",
+        "relevant_articles": [
+            {
+                "law_id": "68/2020/qh14",
+                "article_id": "36"
+            },
+            {
+                "law_id": "Luật Cư trú",
+                "article_id": "36"
+            },
+            {
+                "law_id": "37/2021/nđ-cp",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-74",
+        "relevant_articles": [
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "19"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "176"
+            },
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "176"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-75",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "46"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "46"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "44"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-76",
+        "relevant_articles": [
+            {
+                "law_id": "01/2016/ttlt-tandtc-vksndtc-btp",
+                "article_id": "2"
+            },
+            {
+                "law_id": "01/2016/ttlt-tandtc-vksndtc-btp",
+                "article_id": "4"
+            },
+            {
+                "law_id": "49/2019/nđ-cp",
+                "article_id": "11"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-77",
+        "relevant_articles": [
+            {
+                "law_id": "10/2018/ttlt-btp-bca-bqp-btc-tandtc-vksndtc",
+                "article_id": "7"
+            },
+            {
+                "law_id": "11/2014/tt-btp",
+                "article_id": "12"
+            },
+            {
+                "law_id": "02/2021/tt-btp",
+                "article_id": "5"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-78",
+        "relevant_articles": [
+            {
+                "law_id": "06/2019/tt-btttt",
+                "article_id": "1"
+            },
+            {
+                "law_id": "Luật An ninh mạng",
+                "article_id": "2"
+            },
+            {
+                "law_id": "24/2018/QH14",
+                "article_id": "2"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-79",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "140"
+            },
+            {
+                "law_id": "93/2015/qh13",
+                "article_id": "140"
+            },
+            {
+                "law_id": "24/2018/nđ-cp",
+                "article_id": "34"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-80",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giáo dục",
+                "article_id": "11"
+            },
+            {
+                "law_id": "43/2019/qh14",
+                "article_id": "11"
+            },
+            {
+                "law_id": "04/2011/tt-bgdđt",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-81",
+        "relevant_articles": [
+            {
+                "law_id": "13/2013/ttlt-bqp-bgdđt",
+                "article_id": "1"
+            },
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "45"
+            },
+            {
+                "law_id": "43/2016/tt-blđtbxh",
+                "article_id": "2"
+            }
+        ]
+    },
+    {
+        "question_id": "DS-82",
+        "relevant_articles": [
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "25"
+            },
+            {
+                "law_id": "13/2018/nđ-cp",
+                "article_id": "12"
+            },
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "34"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-1",
+        "relevant_articles": [
+            {
+                "law_id": "43/2011/ttlt-blđtbxh-byt",
+                "article_id": "4"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "35"
+            },
+            {
+                "law_id": "221/2013/nđ-cp",
+                "article_id": "34"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-2",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "275"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "275"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "385"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-3",
+        "relevant_articles": [
+            {
+                "law_id": "46/2019/qh14",
+                "article_id": "8"
+            },
+            {
+                "law_id": "24/2018/qh14",
+                "article_id": "17"
+            },
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-4",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "31"
+            },
+            {
+                "law_id": "80/2018/nđ-cp",
+                "article_id": "2"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "55"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-5",
+        "relevant_articles": [
+            {
+                "law_id": "24/2018/qh14",
+                "article_id": "26"
+            },
+            {
+                "law_id": "Luật An ninh mạng",
+                "article_id": "26"
+            },
+            {
+                "law_id": "24/2018/QH14",
+                "article_id": "26"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-6",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Trồng trọt",
+                "article_id": "48"
+            },
+            {
+                "law_id": "108/2017/nđ-cp",
+                "article_id": "34"
+            },
+            {
+                "law_id": "43/2017/nđ-cp",
+                "article_id": "1"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-7",
+        "relevant_articles": [
+            {
+                "law_id": "45/2019/QH14",
+                "article_id": "20"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "402"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "402"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-8",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "31"
+            },
+            {
+                "law_id": "08/2010/tt-bvhttdl",
+                "article_id": "1"
+            },
+            {
+                "law_id": "07/2019/tt-bvhttdl",
+                "article_id": "26"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-9",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "81"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "81"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "58"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-10",
+        "relevant_articles": [
+            {
+                "law_id": "64/2018/tt-bqp",
+                "article_id": "3"
+            },
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "3"
+            },
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-11",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "445"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "445"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "445"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-12",
+        "relevant_articles": [
+            {
+                "law_id": "35/2014/tt-bca",
+                "article_id": "21"
+            },
+            {
+                "law_id": "96/2016/nđ-cp",
+                "article_id": "44"
+            },
+            {
+                "law_id": "68/2020/qh14",
+                "article_id": "30"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-13",
+        "relevant_articles": [
+            {
+                "law_id": "44/2005/qh11",
+                "article_id": "74"
+            },
+            {
+                "law_id": "09/2017/qh14",
+                "article_id": "60"
+            },
+            {
+                "law_id": "06/2017/tt-bvhttdl",
+                "article_id": "18"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-14",
+        "relevant_articles": [
+            {
+                "law_id": "22/2008/qh12",
+                "article_id": "82"
+            },
+            {
+                "law_id": "58/2010/qh12",
+                "article_id": "56"
+            },
+            {
+                "law_id": "Luật Viên chức",
+                "article_id": "56"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-15",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Du lịch",
+                "article_id": "48"
+            },
+            {
+                "law_id": "44/2005/qh11",
+                "article_id": "62"
+            },
+            {
+                "law_id": "44/2005/qh11",
+                "article_id": "63"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-16",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "291"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "372"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "288"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-17",
+        "relevant_articles": [
+            {
+                "law_id": "14/2017/nđ-cp",
+                "article_id": "2"
+            },
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "4"
+            },
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "4"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-18",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "2"
+            },
+            {
+                "law_id": "167/2013/nđ-cp",
+                "article_id": "21"
+            },
+            {
+                "law_id": "Luật Phòng, chống ma túy",
+                "article_id": "23"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-19",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "27"
+            },
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "29"
+            },
+            {
+                "law_id": "Luật Điện ảnh",
+                "article_id": "34"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-20",
+        "relevant_articles": [
+            {
+                "law_id": "115/2020/nđ-cp",
+                "article_id": "43"
+            },
+            {
+                "law_id": "02/2017/tt-btp",
+                "article_id": "21"
+            },
+            {
+                "law_id": "58/2010/qh12",
+                "article_id": "37"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-21",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tiếp cận thông tin",
+                "article_id": "3"
+            },
+            {
+                "law_id": "104/2016/qh13",
+                "article_id": "4"
+            },
+            {
+                "law_id": "64/2018/tt-bqp",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-22",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "683"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "683"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "683"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-23",
+        "relevant_articles": [
+            {
+                "law_id": "57/2014/qh13",
+                "article_id": "21"
+            },
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "79"
+            },
+            {
+                "law_id": "85/2015/qh13",
+                "article_id": "61"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-24",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viên chức",
+                "article_id": "54"
+            },
+            {
+                "law_id": "58/2010/qh12",
+                "article_id": "54"
+            },
+            {
+                "law_id": "59/2019/nđ-cp",
+                "article_id": "46"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-25",
+        "relevant_articles": [
+            {
+                "law_id": "52/2014/qh13",
+                "article_id": "118"
+            },
+            {
+                "law_id": "Luật Hôn nhân và gia đình",
+                "article_id": "118"
+            },
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "372"
+            }
+        ]
+    },
+    {
+        "question_id": "TN-26",
+        "relevant_articles": [
+            {
+                "law_id": "108/2016/qh13",
+                "article_id": "3"
+            },
+            {
+                "law_id": "53/2010/qh12",
+                "article_id": "111"
+            },
+            {
+                "law_id": "Hiến pháp",
+                "article_id": "15"
+            }
+        ]
+    },
+    {
+        "question_id": "TL-1",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "61"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "61"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "61"
+            }
+        ]
+    },
+    {
+        "question_id": "TL-2",
+        "relevant_articles": [
+            {
+                "law_id": "91/2015/qh13",
+                "article_id": "140"
+            },
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "140"
+            },
+            {
+                "law_id": "91/2015/QH13",
+                "article_id": "140"
+            }
+        ]
+    }
+]
